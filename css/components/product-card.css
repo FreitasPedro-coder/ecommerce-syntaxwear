@@ -1,0 +1,8 @@
+/* product-card.css */
+.product-card {
+    border: 1px solid #ddd;
+    padding: var(--spacing-unit);
+    display: block;
+    text-decoration: none;
+    color: inherit;
+}

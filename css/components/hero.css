@@ -1,0 +1,6 @@
+/* hero.css */
+.hero {
+    background: #eee;
+    padding: calc(var(--spacing-unit) * 2);
+    text-align: center;
+}
